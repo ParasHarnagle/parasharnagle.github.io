@@ -4,33 +4,39 @@
 - **Email**: paras.harnagle@gmail.com
 - **Phone**: +91-7987281781
 - **LinkedIn**: [Paras Harnagle](https://www.linkedin.com/paras-harnagle-629422132)
-
+- **Github**: [Paras Harnagle](https://github.com/ParasHarnagle)
 ## Summary
-Dedicated and results-driven polyglot developer with 8 years of experience in design, development, testing, and deployment. Experienced in writing efficient code and algorithms, building complex distributed microservices, and training and fine-tuning ML models and AI systems. Ability to identify, understand, and translate program requirements into sustainable, advanced technical solutions.
+Dedicated and results-driven AI/ML developer with experience of 9 years in design, development, testing and deployment. Experienced in writingefficient code and algorithm as well as building complex distributed microservices, training and fine-tuning ML models and AI systems. Ability to identify, understand and translate program requirements into sustainable, advanced technical solutions.
 
 ## Skills
-- **Programming Languages**: Go, Python
-- **ML/Deep Learning Frameworks**: TensorFlow, Scikit-learn, PyTorch, Keras
-- **Generative AI Frameworks**: LLM (Langchain)
+- **Programming Languages**: Python, Go,Javascript
+- **LLM & Conversational AI**: AWS Bedrock, ,Azure AI Foundry, Vertex AI, Hugging Face, Deepmind Studio
+- **ML/Deep Learning Frameworks**: TensorFlow, Scikit-learn, PyTorch, Keras,torchtune
+- **Prompt Engineering**: CoT, ReACT, Reflection, few shot, Dynamic Prompting
+- **Generative AI Stack**: langchain, RAGs, Fine Tuning
 - **Deep Learning Architectures**: CNNs, RNNs, GANs
-- **AI/ML Ops**: MLflow, ZenML
-- **Web Frameworks**: Gin-gonic, Flask
+- **AI/ML Ops**: MLflow
+- **Web Frameworks**: Gin-gonic, Fastapi
 - **DevOps**: Docker, Jenkins, Kubernetes, Prometheus
-- **Visualizations**: Seaborn, Matplotlib, Tableau, GopherJS
+- **Visualizations**: Seaborn, Matplotlib,V0(Vercel)
 - **Cloud Platforms**: AWS, GCP, Azure
 - **Databases**: 
   - Relational: PostgreSQL
-  - Non-Relational: MongoDB, Redis, Dgraph
-  - Vector Databases: Pinecone
+  - Non-Relational: MongoDB, Redis, Neo4j
+  - Vector Databases: Pinecone,Faiss
 - **Message Brokers**: Apache Kafka, RabbitMQ
 - **Version Control**: Git
-- **Miscellaneous**: Streamlit, Telegraf, AWS SageMaker
+- **Miscellaneous**: Streamlit, Telegraf, AWS SageMaker,APache Spark
+
+  
 
 ## Certifications
 - TensorFlow Developer Certificate
+- AWS ML Speciality
 - AWS Cloud Practitioner
 
 ## Work Experience
+
 
 ### Calsoft Pvt. Ltd. (Dec 2021 - Current)
 #### Project: Dell DTIAS (Dell Telecom Infrastructure Automation Suite)
